@@ -1,11 +1,11 @@
 {
-  "account"   : "",
-  "user"      : "USER####",
-  "password"  : "",
-  "role"      : "ROLE_USER####",
-  "warehouse" : "WH_XS_USER####",
-  "database"  : "DB_USER####",
+  "account"   : "fz25849.west-us-2.azure",
+  "user"      : "USER9999",
+  "password"  : "Llmbootcamp1$",
+  "role"      : "ROLE_USER9999",
+  "warehouse" : "WH_XS_USER9999",
+  "database"  : "DB_USER9999",
   "schema"    : "SCHEMA_LLM",
-  "compute_pool" : "COMPUTE_POOL_USER####",
-  "huggingface_token": ""
+  "compute_pool" : "COMPUTE_POOL_USER9999",
+  "huggingface_token": "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"
 }
